@@ -1,0 +1,11 @@
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/exception/PersonNotFoundException.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/error/RestExceptionHeandler.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/service/PersonService.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/controller/PessoaController.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/PersonApiApplication.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/repository/PersonRepository.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/dto/request/PersonDTO.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/mapper/PersonMapper.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/entities/Person.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/dto/response/MessageDTO.java
+/home/jordi/Documentos/contabancariaApi/src/main/java/com/contabancaria/PersonAPI/error/ApiError.java

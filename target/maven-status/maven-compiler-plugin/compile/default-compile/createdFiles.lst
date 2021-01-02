@@ -1,0 +1,15 @@
+com/contabancaria/PersonAPI/repository/PersonRepository.class
+com/contabancaria/PersonAPI/dto/request/PersonDTO$PersonDTOBuilder.class
+com/contabancaria/PersonAPI/PersonApiApplication.class
+com/contabancaria/PersonAPI/error/ApiError.class
+com/contabancaria/PersonAPI/mapper/PersonMapperImpl.class
+com/contabancaria/PersonAPI/dto/request/PersonDTO.class
+com/contabancaria/PersonAPI/entities/Person$PersonBuilder.class
+com/contabancaria/PersonAPI/dto/response/MessageDTO$MessageDTOBuilder.class
+com/contabancaria/PersonAPI/service/PersonService.class
+com/contabancaria/PersonAPI/controller/PessoaController.class
+com/contabancaria/PersonAPI/entities/Person.class
+com/contabancaria/PersonAPI/dto/response/MessageDTO.class
+com/contabancaria/PersonAPI/error/RestExceptionHeandler.class
+com/contabancaria/PersonAPI/mapper/PersonMapper.class
+com/contabancaria/PersonAPI/exception/PersonNotFoundException.class
